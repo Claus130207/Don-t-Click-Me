@@ -1,0 +1,2 @@
+# Don't Click Me
+It is a clicker basically where you have to push a mouse called Clicky, trying to stop you from doing it. The game is a bit similar to "There is no Game" and "There is no Game Wrong Dimension", taking the same approach, do the exact opposite things that you are practically not allowed to do. The Game I build via Android Studio IDE, uses both Java and Gradel programming languages and it's designed using a technique called PixelArt with Pixel Brush (a mobile app too).
